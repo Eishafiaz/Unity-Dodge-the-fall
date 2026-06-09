@@ -1,0 +1,855 @@
+fileFormatVersion: 2
+guid: 88f4d713882c15347a64e87f9bdcc5c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 542193688104045555
+    second: Anas_Eisha_Ali__1_-removebg-preview_0
+  - first:
+      213: -7803014327356032573
+    second: Anas_Eisha_Ali__1_-removebg-preview_1
+  - first:
+      213: -5048867881625200128
+    second: Anas_Eisha_Ali__1_-removebg-preview_2
+  - first:
+      213: 2656519676162467903
+    second: Anas_Eisha_Ali__1_-removebg-preview_3
+  - first:
+      213: -7499135899603519346
+    second: Anas_Eisha_Ali__1_-removebg-preview_4
+  - first:
+      213: 9176508352210084118
+    second: Anas_Eisha_Ali__1_-removebg-preview_5
+  - first:
+      213: -1908376131399599476
+    second: Anas_Eisha_Ali__1_-removebg-preview_6
+  - first:
+      213: -911757518825692695
+    second: Anas_Eisha_Ali__1_-removebg-preview_7
+  - first:
+      213: 5595166372930074287
+    second: Anas_Eisha_Ali__1_-removebg-preview_8
+  - first:
+      213: -4462779476320494055
+    second: Anas_Eisha_Ali__1_-removebg-preview_9
+  - first:
+      213: 5650320209173455055
+    second: Anas_Eisha_Ali__1_-removebg-preview_10
+  - first:
+      213: -4662905361377891391
+    second: Anas_Eisha_Ali__1_-removebg-preview_11
+  - first:
+      213: -8821774828981611597
+    second: Anas_Eisha_Ali__1_-removebg-preview_12
+  - first:
+      213: 4228669236139449035
+    second: Anas_Eisha_Ali__1_-removebg-preview_13
+  - first:
+      213: 857386088126161168
+    second: Anas_Eisha_Ali__1_-removebg-preview_14
+  - first:
+      213: 1472799528426268265
+    second: Anas_Eisha_Ali__1_-removebg-preview_15
+  - first:
+      213: -5020080401489403713
+    second: Anas_Eisha_Ali__1_-removebg-preview_16
+  - first:
+      213: 478503806964674101
+    second: Anas_Eisha_Ali__1_-removebg-preview_17
+  - first:
+      213: -5517128266377461276
+    second: Anas_Eisha_Ali__1_-removebg-preview_18
+  - first:
+      213: -5603694789486042183
+    second: Anas_Eisha_Ali__1_-removebg-preview_19
+  - first:
+      213: -959306239653938615
+    second: Anas_Eisha_Ali__1_-removebg-preview_20
+  - first:
+      213: 3138994168168167296
+    second: Anas_Eisha_Ali__1_-removebg-preview_21
+  - first:
+      213: 595071476742918932
+    second: Anas_Eisha_Ali__1_-removebg-preview_22
+  - first:
+      213: 5224463387401141628
+    second: Anas_Eisha_Ali__1_-removebg-preview_23
+  - first:
+      213: -7650336459120093348
+    second: Anas_Eisha_Ali__1_-removebg-preview_24
+  - first:
+      213: 251117588822819887
+    second: Anas_Eisha_Ali__1_-removebg-preview_25
+  - first:
+      213: 5432808092321964141
+    second: Anas_Eisha_Ali__1_-removebg-preview_26
+  - first:
+      213: -7108433892607695941
+    second: Anas_Eisha_Ali__1_-removebg-preview_27
+  - first:
+      213: -9086771457896273461
+    second: Anas_Eisha_Ali__1_-removebg-preview_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Anas_Eisha_Ali__1_-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 272
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb86e26942468700800000000000000
+      internalID: 542193688104045555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anas_Eisha_Ali__1_-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 273
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9f8a8bfcf16b390800000000000000
+      internalID: -7803014327356032573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anas_Eisha_Ali__1_-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 273
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ad9d56961dee9b0800000000000000
+      internalID: -5048867881625200128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anas_Eisha_Ali__1_-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 273
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38ef74129addd420800000000000000
+      internalID: 2656519676162467903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anas_Eisha_Ali__1_-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 273
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88b0c5a1a7bde790800000000000000
+      internalID: -7499135899603519346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anas_Eisha_Ali__1_-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 273
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61123e32ab1895f70800000000000000
+      internalID: 9176508352210084118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anas_Eisha_Ali__1_-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 273
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ab71ef4061485e0800000000000000
+      internalID: -1908376131399599476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anas_Eisha_Ali__1_-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 268
+        width: 56
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e16a190e59c853f0800000000000000
+      internalID: -911757518825692695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anas_Eisha_Ali__1_-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 269
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa635b5fb2606ad40800000000000000
+      internalID: 5595166372930074287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anas_Eisha_Ali__1_-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 239
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e530b06b50112c0800000000000000
+      internalID: -4462779476320494055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anas_Eisha_Ali__1_-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 239
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0aef62b48f96e40800000000000000
+      internalID: 5650320209173455055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anas_Eisha_Ali__1_-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 239
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb6ec967480a4fb0800000000000000
+      internalID: -4662905361377891391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anas_Eisha_Ali__1_-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 239
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b391166882c29580800000000000000
+      internalID: -8821774828981611597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anas_Eisha_Ali__1_-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 239
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcad6bc04404faa30800000000000000
+      internalID: 4228669236139449035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anas_Eisha_Ali__1_-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 239
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0112f12ca1c06eb00800000000000000
+      internalID: 857386088126161168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anas_Eisha_Ali__1_-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 239
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966e53d2e5f607410800000000000000
+      internalID: 1472799528426268265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anas_Eisha_Ali__1_-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 239
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0e25de877155ab0800000000000000
+      internalID: -5020080401489403713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anas_Eisha_Ali__1_-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 235
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e2dcd5dacf3a600800000000000000
+      internalID: 478503806964674101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anas_Eisha_Ali__1_-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 204
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e10e4e92193f63b0800000000000000
+      internalID: -5517128266377461276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anas_Eisha_Ali__1_-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 204
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b32af2574dab32b0800000000000000
+      internalID: -5603694789486042183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anas_Eisha_Ali__1_-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 204
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a7c92ce0cdfa2f0800000000000000
+      internalID: -959306239653938615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anas_Eisha_Ali__1_-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 204
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087bfa99092ff8b20800000000000000
+      internalID: 3138994168168167296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anas_Eisha_Ali__1_-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 204
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4139a33fa5e124800800000000000000
+      internalID: 595071476742918932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anas_Eisha_Ali__1_-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 204
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d341c35c5018840800000000000000
+      internalID: 5224463387401141628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anas_Eisha_Ali__1_-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 204
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c575ded068b84d590800000000000000
+      internalID: -7650336459120093348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anas_Eisha_Ali__1_-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 199
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2403a6dd162c7300800000000000000
+      internalID: 251117588822819887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anas_Eisha_Ali__1_-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 204
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60e7bbfc26356b40800000000000000
+      internalID: 5432808092321964141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anas_Eisha_Ali__1_-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 204
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb365c96905c95d90800000000000000
+      internalID: -7108433892607695941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anas_Eisha_Ali__1_-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 204
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc92fe8b08d45e180800000000000000
+      internalID: -9086771457896273461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
